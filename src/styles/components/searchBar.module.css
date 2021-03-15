@@ -1,0 +1,32 @@
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 2rem 0;
+}
+
+.searchBar {
+    padding: 0 1rem;
+    margin: 1rem 0;
+}
+
+.searchBarInput {
+    font-size: 1.4rem;
+    padding: .8rem 0;
+    text-align: center;
+
+    border: none;
+    border-radius: 5px;
+
+    margin-right: 1rem;
+}
+
+.searchBarLabel {
+    font-size: 1.4rem;
+    background: linear-gradient(270deg, #3B1992 3.49%, #1A064D 100%);
+    color: #f2f2f2;
+
+    padding: .8rem 1rem;
+    border-radius: 5px;
+}
